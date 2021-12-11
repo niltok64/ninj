@@ -372,15 +372,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "pixil-frame-02.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "pixil-frame-02.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -394,6 +385,24 @@
         "kind": "image",
         "metadata": "",
         "name": "right-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "checkpoint-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "checkpoint-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixil-frame-02.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixil-frame-02.png",
         "smoothed": true,
         "userAdded": true
       }
@@ -427,7 +436,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.9199999999999999,
+        "zoomFactor": 0.94,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -569,8 +578,8 @@
           "locked": false,
           "name": "SteelBridge",
           "persistentUuid": "2585fe21-cb56-4417-935b-a565f7f0e034",
-          "width": 209,
-          "x": 61,
+          "width": 249,
+          "x": 21,
           "y": 387,
           "zOrder": 9,
           "numberProperties": [],
@@ -586,7 +595,7 @@
           "name": "SteelPath",
           "persistentUuid": "80d0cefc-8ddb-4cc8-99a0-047f68bb0cc4",
           "width": 0,
-          "x": 61,
+          "x": 22,
           "y": 355,
           "zOrder": 10,
           "numberProperties": [],
@@ -634,7 +643,7 @@
           "name": "left",
           "persistentUuid": "21bf5d0c-a7a7-4ee6-82cf-15da4bcaaabe",
           "width": 35,
-          "x": 221,
+          "x": 231,
           "y": 362,
           "zOrder": 13,
           "numberProperties": [],
@@ -650,9 +659,57 @@
           "name": "right",
           "persistentUuid": "07d439d0-e07b-4360-85cb-2af7752e9326",
           "width": 42.992225646972656,
-          "x": 66.63992309570312,
-          "y": 357.9128112792969,
+          "x": 21.63992691040039,
+          "y": 354.65753173828125,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "de5e8ca7-d281-4371-88d1-c60b9ab050e1",
+          "width": 0,
+          "x": 345,
+          "y": 392,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "82236554-4899-42e3-8358-3f078e406651",
+          "width": 0,
+          "x": 584,
+          "y": 439,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "checkpoint",
+          "persistentUuid": "666d1bae-98c5-48b5-89b3-6c7f293aeb4b",
+          "width": 0,
+          "x": 257,
+          "y": 505,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -981,6 +1038,46 @@
               ]
             }
           ]
+        },
+        {
+          "name": "checkpoint",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "checkpoint",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "checkpoint-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "events": [
@@ -1231,6 +1328,16 @@
                 "right"
               ],
               "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "checkpoint"
+              ],
+              "subInstructions": []
             }
           ],
           "events": []
@@ -1318,11 +1425,14 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Delete"
+                "value": "MettreXY"
               },
               "parameters": [
                 "character",
-                ""
+                "=",
+                "Variable(CheckpointX)",
+                "=",
+                "Variable(CheckpointY)"
               ],
               "subInstructions": []
             }
@@ -1391,6 +1501,54 @@
               "parameters": [
                 "character",
                 "PlatformerObject"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "character",
+                "checkpoint",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "CheckpointX",
+                "=",
+                "checkpoint.X()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "CheckpointY",
+                "=",
+                "checkpoint.Y()"
               ],
               "subInstructions": []
             }
