@@ -21,7 +21,7 @@
     "author": "pure games",
     "windowWidth": 800,
     "windowHeight": 600,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "C:\\Users\\Louis\\Development\\ninj\\releases\\1.0",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -436,7 +436,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.94,
+        "zoomFactor": 0.5799999999999994,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -707,9 +707,1081 @@
           "name": "checkpoint",
           "persistentUuid": "666d1bae-98c5-48b5-89b3-6c7f293aeb4b",
           "width": 0,
-          "x": 257,
+          "x": 256,
           "y": 505,
           "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "aaff0837-f7b1-412c-9e99-e31de7380bf0",
+          "width": 189,
+          "x": 316,
+          "y": 277,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "a02b5711-ed6f-4e14-9df9-711fc36dee2d",
+          "width": 44,
+          "x": 529,
+          "y": 205,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "c4d88907-4835-472e-9661-9605ce42a8a7",
+          "width": 43,
+          "x": 619,
+          "y": 140,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "c2221c91-daca-4580-ac30-9c89db42fe50",
+          "width": 54,
+          "x": 523,
+          "y": 68,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "2de8419d-e1fa-41f9-a0d4-b1c7c6dbf903",
+          "width": 62,
+          "x": 411,
+          "y": 10,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "0f1eaa04-df0b-450d-9fae-1d1dd4472a0b",
+          "width": 0,
+          "x": 482,
+          "y": -61,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "f1a79ac6-2b3b-4085-a4be-ed1384dc226c",
+          "width": 0,
+          "x": 450,
+          "y": 254,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "bf0475fe-7e61-4bdb-a52e-0b59a9dfbfe9",
+          "width": 0,
+          "x": 390,
+          "y": 244,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "486b48bb-ea1e-49b6-badb-1a5d7614a070",
+          "width": 0,
+          "x": 545,
+          "y": 175,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "59a309aa-ecf4-488d-8dc6-2ef77c4d2b41",
+          "width": 0,
+          "x": 627,
+          "y": 122,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "c4220cf5-c0d6-4891-b400-45b6c1064c57",
+          "width": 0,
+          "x": 536,
+          "y": 49,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "01af0b4d-167b-4cdd-8add-bb780db2f473",
+          "width": 0,
+          "x": 429,
+          "y": -15,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "d2d1c614-5cf3-4da0-b9a9-abe8f741c4ca",
+          "width": 0,
+          "x": 490,
+          "y": -83,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "8fabcb14-c510-4d11-ad5c-028d5c5e3864",
+          "width": 63,
+          "x": 528,
+          "y": -139,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "ccbf3a46-45fc-4af4-a5ab-f2d9e729e694",
+          "width": 298,
+          "x": 234,
+          "y": -237,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "f1c5714b-8f71-4e6d-9cd5-9be678c63ff8",
+          "width": 0,
+          "x": 233,
+          "y": -269,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "ceab6332-d45c-49ab-8741-8234965cdc66",
+          "width": 0,
+          "x": 501,
+          "y": -265,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "310b0dc6-8c06-45f2-94bb-bd7c784773e5",
+          "width": 0,
+          "x": 536,
+          "y": -154,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "3690fdd6-5baf-4670-ae79-08a071bff47b",
+          "width": 0,
+          "x": 570,
+          "y": -157,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Slime",
+          "persistentUuid": "1cd097e7-b657-4caf-8dc2-9d02f9342462",
+          "width": 0,
+          "x": 282,
+          "y": -288,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Slime",
+          "persistentUuid": "d65058d7-9d98-4bad-97fa-a69cd2598ec6",
+          "width": 0,
+          "x": 424,
+          "y": -290,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "persistentUuid": "7320b5c4-d32c-4152-a9d8-5aa745eb8225",
+          "width": 52,
+          "x": 490,
+          "y": -275,
+          "zOrder": 39,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 57,
+          "layer": "",
+          "locked": false,
+          "name": "right",
+          "persistentUuid": "5c4a3631-3906-443c-81c5-caadeed0eda6",
+          "width": 52,
+          "x": 226,
+          "y": -282,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "502d463e-348d-4b60-8877-fb493ef50c4c",
+          "width": 182,
+          "x": 27,
+          "y": -365,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "781807d8-1409-4b8c-97df-4e77784c5897",
+          "width": 167,
+          "x": -228,
+          "y": -307,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 259,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "d10ec9c3-8cb1-49bf-a300-869492de0c4e",
+          "width": 221,
+          "x": -451,
+          "y": -192,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "4b5222e4-7b08-42c9-b0eb-e293719c8971",
+          "width": 0,
+          "x": 114,
+          "y": -391,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "80408824-6d07-4ed3-9e0a-190cfe01637c",
+          "width": 0,
+          "x": 62,
+          "y": -389,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "788f76de-c972-4c99-a4b3-039356d9032d",
+          "width": 0,
+          "x": 161,
+          "y": -385,
+          "zOrder": 46,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "a870b867-81b9-49a8-aa12-b57d22127b7a",
+          "width": 0,
+          "x": -161,
+          "y": -326,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "ee20076a-5b8f-40b0-8056-ae6c5a59c3b8",
+          "width": 0,
+          "x": -116,
+          "y": -322,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "56ce303c-376f-4023-bc91-800148d21af8",
+          "width": 0,
+          "x": -208,
+          "y": -322,
+          "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 28,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "persistentUuid": "635f2355-dfce-4c86-8562-dab5ec10f90f",
+          "width": 31,
+          "x": -259,
+          "y": -210,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 38,
+          "layer": "",
+          "locked": false,
+          "name": "right",
+          "persistentUuid": "bcec74e5-aaa4-434d-a0d9-1455d81ab2b9",
+          "width": 38,
+          "x": -465,
+          "y": -220,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 25,
+          "layer": "",
+          "locked": false,
+          "name": "Slime",
+          "persistentUuid": "c25c07ef-3200-4703-af73-bfa9b9ba4a29",
+          "width": 27,
+          "x": -428,
+          "y": -211,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "8a20c5a1-ea74-4254-8583-92be1a35e562",
+          "width": 0,
+          "x": 47,
+          "y": -218,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "262c265e-dee1-44dd-bb81-fd3320607b8c",
+          "width": 0,
+          "x": -97,
+          "y": -486,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "ff3cba3a-7226-4f78-8039-997e31c7a181",
+          "width": 0,
+          "x": -171,
+          "y": -521,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "73488926-e2a4-4209-9f42-480cac2d968a",
+          "width": 0,
+          "x": -116,
+          "y": -173,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "8e32f9fd-8fd5-4969-b55a-03adfd3ad96f",
+          "width": 0,
+          "x": -451,
+          "y": -393,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "700c8633-89c7-40e0-baec-ede2ec5a0ab6",
+          "width": 0,
+          "x": -610,
+          "y": -285,
+          "zOrder": 60,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "538e4420-a714-4e5f-9aeb-c257d1720077",
+          "width": 0,
+          "x": -512,
+          "y": 83,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelPath",
+          "persistentUuid": "d1bb7518-d783-4837-b908-9a801e38b32d",
+          "width": 0,
+          "x": -562,
+          "y": 86,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "SteelBridge",
+          "persistentUuid": "8e83ef55-ab23-46e3-9520-5acad390ca14",
+          "width": 0,
+          "x": -602,
+          "y": 104,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 310,
+          "layer": "",
+          "locked": false,
+          "name": "SteelPath",
+          "persistentUuid": "57849316-517f-4ed4-8acf-a7ff53217c11",
+          "width": 222,
+          "x": -777,
+          "y": 168,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 311,
+          "layer": "",
+          "locked": false,
+          "name": "SteelPath",
+          "persistentUuid": "b12ae757-3286-4777-8770-a0a3f3a335fa",
+          "width": 185,
+          "x": -1015,
+          "y": 167,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "SteelPath",
+          "persistentUuid": "feffa916-82ea-46b9-bc20-c31fb35d56ac",
+          "width": 101,
+          "x": -854,
+          "y": 538,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "ea399b1d-113c-4331-8c1d-4b96ae62fdf0",
+          "width": 0,
+          "x": -812,
+          "y": 513,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "4530a3c2-b7d7-4bef-ae20-1ad66acac1a5",
+          "width": 0,
+          "x": -778,
+          "y": 513,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "905529ee-03fc-43eb-b9ab-0494793329e5",
+          "width": 0,
+          "x": -841,
+          "y": 515,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "b2ccfa92-0530-465e-8a83-fc3fe343949c",
+          "width": 0,
+          "x": -706,
+          "y": 143,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "38c23a36-9311-4732-a64b-02eca79c81ed",
+          "width": 0,
+          "x": -664,
+          "y": 151,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "34bf1d40-2161-4c3d-8864-daed7c624f3d",
+          "width": 0,
+          "x": -618,
+          "y": 143,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "189303d5-a058-4bab-b694-2e02cfb759c9",
+          "width": 0,
+          "x": -756,
+          "y": 151,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "cef19153-1a28-46ab-92c1-f0d21c158ca8",
+          "width": 0,
+          "x": -882,
+          "y": 144,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "fc631242-0db1-4f4c-8ab4-a31ce3af7326",
+          "width": 0,
+          "x": -926,
+          "y": 149,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "d6a2921e-1249-4312-882f-05aa2b698acc",
+          "width": 0,
+          "x": -983,
+          "y": 144,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "60d4054d-09f8-4313-b90e-cf4d7c5aade4",
+          "width": 0,
+          "x": -381,
+          "y": -207,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "6c242fc0-5e3a-4cf8-b3bd-53b73c3e2644",
+          "width": 0,
+          "x": -368,
+          "y": -209,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "c595d611-b9b5-4747-8978-58cc39836c52",
+          "width": 0,
+          "x": -333,
+          "y": -208,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "d3f03eb5-916d-40d0-b96b-a689aa3924cc",
+          "width": 0,
+          "x": -339,
+          "y": -209,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "GoldIngot",
+          "persistentUuid": "0ae52434-7ed8-4148-8cf2-f5440182dfb5",
+          "width": 0,
+          "x": -312,
+          "y": -207,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "1278db19-ac9f-478a-976f-8a725f828c05",
+          "width": 0,
+          "x": -420,
+          "y": 369,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "375b2b06-243e-4df6-a47f-48a7cfda0c58",
+          "width": 0,
+          "x": -445,
+          "y": 252,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "fac6ca7a-971a-4034-bfdc-c69c745ac930",
+          "width": 0,
+          "x": -993,
+          "y": -118,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "48814f32-affb-43a5-8ba0-65ebaa6b966e",
+          "width": 0,
+          "x": -1200,
+          "y": 144,
+          "zOrder": 86,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "cloud",
+          "persistentUuid": "3784c56f-1119-4e04-8b82-96a6b944b019",
+          "width": 0,
+          "x": -1225,
+          "y": 614,
+          "zOrder": 87,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -724,6 +1796,10 @@
           "variables": [],
           "effects": [],
           "behaviors": [
+            {
+              "name": "KonamiCode",
+              "type": "KonamiCode::KonamiCode"
+            },
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
@@ -1554,6 +2630,40 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KonamiCode::KonamiCode::KC_Inputted"
+              },
+              "parameters": [
+                "character",
+                "KonamiCode",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeScale"
+              },
+              "parameters": [
+                "character",
+                "=",
+                "0.5"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -1593,6 +2703,10 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "KonamiCode",
+          "type": "KonamiCode::KonamiCode"
+        },
+        {
           "name": "Platform",
           "type": "PlatformBehavior::PlatformBehavior"
         },
@@ -1605,6 +2719,463 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "Tristan Rhodes (https://victrisgames.itch.io/)",
+      "description": "Set the angle of the object to match the direction of movement. You can customize the speed of the rotation.\n\nThis works with any kind of movement (forces, physics...) as it uses the object center position to compute the rotation of the object.",
+      "extensionNamespace": "",
+      "fullName": "Face Forward",
+      "helpPath": "https://victrisgames.itch.io/extension-faceforward",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWNhcnQtYXJyb3ctcmlnaHQiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNOSwyMEEyLDIgMCAwLDEgNywyMkEyLDIgMCAwLDEgNSwyMEEyLDIgMCAwLDEgNywxOEEyLDIgMCAwLDEgOSwyME0xNywxOEEyLDIgMCAwLDAgMTUsMjBBMiwyIDAgMCwwIDE3LDIyQTIsMiAwIDAsMCAxOSwyMEEyLDIgMCAwLDAgMTcsMThNNy4yLDE0LjYzQzcuMTksMTQuNjcgNy4xOSwxNC43MSA3LjIsMTQuNzVBMC4yNSwwLjI1IDAgMCwwIDcuNDUsMTVIMTlWMTdIN0EyLDIgMCAwLDEgNSwxNUM1LDE0LjY1IDUuMDcsMTQuMzEgNS4yNCwxNEw2LjYsMTEuNTlMMyw0SDFWMkg0LjI3TDUuMjEsNEgyMEExLDEgMCAwLDEgMjEsNUMyMSw1LjE3IDIwLjk1LDUuMzQgMjAuODgsNS41TDE3LjMsMTJDMTYuOTQsMTIuNjIgMTYuMjcsMTMgMTUuNTUsMTNIOC4xTDcuMiwxNC42M005LDkuNUgxM1YxMS41TDE2LDguNUwxMyw1LjVWNy41SDlWOS41WiIgLz48L3N2Zz4=",
+      "name": "FaceForward",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/cart-arrow-right.svg",
+      "shortDescription": "Face object towards the direction of movement.",
+      "version": "0.1.1",
+      "tags": [
+        "object",
+        "rotation",
+        "movement",
+        "direction"
+      ],
+      "authorIds": [
+        "gqDaZjCfevOOxBYkK6zlhtZnXCg1"
+      ],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Face object towards the direction of movement.",
+          "fullName": "Face forward",
+          "name": "FaceForward",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "description": "",
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Make sure the object has moved",
+                  "comment2": ""
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "FaceForward::FaceForward::PropertyPreviousX"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "!=",
+                            "Object.CenterX()"
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "FaceForward::FaceForward::PropertyPreviousY"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "!=",
+                            "Object.CenterY()"
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [],
+                  "events": [
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Save movement direction as a property so the user can ",
+                      "comment2": ""
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "FaceForward::FaceForward::SetPropertyMovementDirection"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Behavior",
+                            "=",
+                            "AngleBetweenPositions(Object.Behavior::PropertyPreviousX(),Object.Behavior::PropertyPreviousY(),Object.CenterX(),Object.CenterY())"
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "Rotate the object to face the direction it is moving towards",
+                      "comment2": ""
+                    },
+                    {
+                      "disabled": false,
+                      "folded": false,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "Object",
+                            "Object.Behavior::PropertyMovementDirection()",
+                            "abs(Object.Behavior::PropertyRotationSpeed())",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ],
+                      "events": []
+                    }
+                  ]
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Save the current position to be used in the next frame",
+                  "comment2": ""
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "FaceForward::FaceForward::SetPropertyPreviousX"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Object.CenterX()"
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "FaceForward::FaceForward::SetPropertyPreviousY"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Object.CenterY()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "FaceForward::FaceForward",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Set rotation speed (degrees per second).  Use \"0\" for immediate turning.",
+              "fullName": "Set rotation speed",
+              "functionType": "Action",
+              "name": "SetRotationSpeed",
+              "private": false,
+              "sentence": "Set rotation speed of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "FaceForward::FaceForward::SetPropertyRotationSpeed"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "GetArgumentAsNumber(\"RotationSpeed\")"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "FaceForward::FaceForward",
+                  "type": "behavior"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Rotation Speed",
+                  "longDescription": "",
+                  "name": "RotationSpeed",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Rotation speed (in degrees per second).",
+              "fullName": "Rotation speed",
+              "functionType": "Expression",
+              "name": "RotationSpeed",
+              "private": false,
+              "sentence": "Rotation speed of _PARAM0_",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertyRotationSpeed()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "FaceForward::FaceForward",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Direction the object is moving (in degrees).",
+              "fullName": "Movement direction",
+              "functionType": "Expression",
+              "name": "MovementDirection",
+              "private": false,
+              "sentence": "",
+              "events": [
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "Object.Behavior::PropertyMovementDirection()"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                }
+              ],
+              "parameters": [
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Object",
+                  "longDescription": "",
+                  "name": "Object",
+                  "optional": false,
+                  "supplementaryInformation": "",
+                  "type": "object"
+                },
+                {
+                  "codeOnly": false,
+                  "defaultValue": "",
+                  "description": "Behavior",
+                  "longDescription": "",
+                  "name": "Behavior",
+                  "optional": false,
+                  "supplementaryInformation": "FaceForward::FaceForward",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Rotation speed (degrees per second).  Use \"0\" for immediate turning.",
+              "description": "",
+              "extraInformation": [],
+              "hidden": false,
+              "name": "RotationSpeed"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "Previous X position",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "PreviousX"
+            },
+            {
+              "value": "",
+              "type": "Number",
+              "label": "Previous Y position",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "PreviousY"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "label": "Direction the object is moving (in degrees)",
+              "description": "",
+              "extraInformation": [],
+              "hidden": true,
+              "name": "MovementDirection"
+            }
+          ]
+        }
+      ]
+    },
     {
       "author": "@4ian",
       "description": "Make the object go on the left, then when some distance is reached, flip and go back to the right. **Make sure** that your object has **two animations called \"GoLeft\" and \"TurnLeft\"**.",
