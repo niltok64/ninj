@@ -404,7 +404,7 @@
         "metadata": "",
         "name": "pixil-frame-02.png",
         "smoothed": true,
-        "userAdded": true
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -436,7 +436,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5799999999999994,
+        "zoomFactor": 0.4500000000000001,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -707,8 +707,8 @@
           "name": "checkpoint",
           "persistentUuid": "666d1bae-98c5-48b5-89b3-6c7f293aeb4b",
           "width": 0,
-          "x": 256,
-          "y": 505,
+          "x": 274,
+          "y": 530,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -1785,6 +1785,70 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Slime",
+          "persistentUuid": "fa2b989b-da3b-4ce5-84f2-2461403e7aa4",
+          "width": 0,
+          "x": -969,
+          "y": 118,
+          "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 34,
+          "layer": "",
+          "locked": false,
+          "name": "left",
+          "persistentUuid": "da9ebdc0-021a-45ae-ab59-40dd1c5c1504",
+          "width": 34,
+          "x": -863,
+          "y": 147,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 40,
+          "layer": "",
+          "locked": false,
+          "name": "right",
+          "persistentUuid": "deb4457a-64dc-428f-9415-6b61997331eb",
+          "width": 37,
+          "x": -1032,
+          "y": 140,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "checkpoint",
+          "persistentUuid": "e2f2b415-56ad-43f1-bdab-3f0039a270d4",
+          "width": 0,
+          "x": -820,
+          "y": 504,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -1902,10 +1966,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -1921,10 +1985,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "Jumpthru",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
               "yGrabOffset": 0
             }
           ]
