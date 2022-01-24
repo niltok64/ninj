@@ -1,3 +1,4 @@
+![itch cover art](release-images/itch-cover-image.png)
 # ninj
 ninj is a side-scrolling platformer.
 
