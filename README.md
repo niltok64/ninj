@@ -1,5 +1,6 @@
 ![itch cover art](release-images/itch-cover-image.png)
 # ninj
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)<br>
 ninj is a side-scrolling platformer.
 
 itch.io link: https://imsad2.itch.io/ninj
